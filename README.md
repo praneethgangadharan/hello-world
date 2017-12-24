@@ -1,4 +1,4 @@
-# hello-world
+#python-exercises
 hi guys,
 Praneeth here ,call me pranni 
 B tech-CSE 
